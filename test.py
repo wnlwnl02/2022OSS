@@ -1,6 +1,6 @@
 print("HELLO WORLD!") #HELLO WORLD 출력
 print("박주희_202101533_컴퓨터공학부") #내 정보 출력
-print("정보") #좋아하는 과목 출력
+print("좋아하는 과목: 정보") #좋아하는 과목 출력
 print("Hufs Computer Engineering")
 
 
