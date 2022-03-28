@@ -1,7 +1,7 @@
 print("HELLO WORLD!") #HELLO WORLD 출력
 print("박주희_202101533_컴퓨터공학부") #내 정보 출력
 print("좋아하는 과목: 정보") #좋아하는 과목 출력
-print("Hufs Computer Engineering")
+print("Hufs. Division of Computer Engineering")
 
 
 #입력된 n만큼 'computer'출력하기(n>2)
@@ -12,3 +12,4 @@ if n > 2:
 	
 else:
 	print("3이상 입력하세요") #2이상이 아닌 경우
+	
