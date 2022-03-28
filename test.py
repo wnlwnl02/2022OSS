@@ -1,5 +1,7 @@
 print("HELLO WORLD!") #HELLO WORLD 출력
-print("박주희_202101533_컴퓨터공학부") #내 정보 출력
+print("이름: 박주희")#이름 출력
+print("학번: 202101533")#학번 출력
+print("학과: 컴퓨터공학부")#학과 출력
 print("좋아하는 과목: 정보") #좋아하는 과목 출력
 print("Hufs. Division of Computer Engineering")
 
