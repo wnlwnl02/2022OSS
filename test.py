@@ -6,7 +6,7 @@ print("좋아하는 과목: 정보") #좋아하는 과목 출력
 print("Hufs. Division of Computer Engineering")
 
 
-#입력된 n만큼 'computer'출력하기(n>2)
+#입력된 n만큼 'computer'출력하기(n > 2)
 n = int(input()) #n입력받기
 if n > 2:
 	for i in range(n):
